@@ -5,10 +5,13 @@ project(${PROJECT_NAME})
 
 add_executable(${PROJECT_NAME} 
     src/main.cpp
-	src/Practice_2/Circle.cpp
-	src/Practice_2/Figure.cpp
-	src/Practice_2/Triangle.cpp
-	src/Practice_2/Circle.h
-	src/Practice_2/Figure.h
-	src/Practice_2/Triangle.h
+	src/Practice_3/tack_1/eq2.cpp
+	src/Practice_3/tack_1/eq2.h
+	src/Practice_3/tack_1/main.cpp
+	src/Practice_3/tack_2/rational.cpp
+	src/Practice_3/tack_2/rational.h
+	src/Practice_3/tack_2/main.cpp
+	src/Practice_3/tack_3/rational.cpp
+	src/Practice_3/tack_3/rational.h
+	src/Practice_3/tack_3/main.cpp
 )

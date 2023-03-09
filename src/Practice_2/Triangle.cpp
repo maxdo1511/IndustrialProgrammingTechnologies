@@ -14,7 +14,7 @@ namespace Figure {
 	}
 
 	Triangle::~Triangle() {
-		std::cout << "Óäàë¸í!" << std::endl;
+		std::cout << "Deleted!" << std::endl;
 	}
 
 	bool Triangle::exst_tr() {

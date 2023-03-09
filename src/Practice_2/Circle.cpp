@@ -14,7 +14,7 @@ namespace Figure {
 	}
 
 	Circle::~Circle() {
-		std::cout << "Óäàë¸í!" << std::endl;
+		std::cout << "Deleted!" << std::endl;
 	}
 
 	void Circle::set_circle(float r, float x, float y) {
