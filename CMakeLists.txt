@@ -14,4 +14,7 @@ add_executable(${PROJECT_NAME}
 	src/Practice_3/tack_3/rational.cpp
 	src/Practice_3/tack_3/rational.h
 	src/Practice_3/tack_3/main.cpp
+	src/Practice_14/tack_1/division_exception.cpp
+	src/Practice_14/tack_2/index_exception.cpp
+	src/Practice_14/tack_3/null_pointer_exception.cpp
 )
