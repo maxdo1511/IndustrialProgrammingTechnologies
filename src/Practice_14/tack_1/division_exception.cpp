@@ -2,7 +2,6 @@
 #include <exception>
 
 using namespace std;
-
 int divison(int a, int b)
 {
 	if (b == 0)

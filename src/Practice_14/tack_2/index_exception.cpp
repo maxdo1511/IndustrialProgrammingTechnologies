@@ -2,6 +2,7 @@
 #include <exception>
 
 using namespace std;
+
 int getItem(int mas[], int index)
 {
 	if (index < 0)
